@@ -41,7 +41,7 @@ Product.init(
         key: "id",
       },
       type: DataTypes.INTEGER,
-      allowNull: false,
+      allowNull: true,
     },
   },
   {
