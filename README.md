@@ -19,7 +19,7 @@
 https://github.com/Sahanaroy1/E-Commerce-Portal
 
 ## Walkthrough video URL:
-
+https://vimeo.com/940432994/0a8f0821ca?share=copy
 
 # Snippet of the E-commmerce portal:
 <img width="1306" alt="E-commerce" src="https://github.com/Sahanaroy1/E-Commerce-Portal/assets/127791384/ec256b3b-dfe7-4e29-944d-9217f51dc4d1">
