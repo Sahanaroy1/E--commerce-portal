@@ -1,5 +1,6 @@
 const { Category } = require('../models');
 
+//Dummy category data
 const categoryData = [
   {
     category_name: 'Shirts',

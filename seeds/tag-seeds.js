@@ -1,5 +1,6 @@
 const { Tag } = require('../models');
 
+//Dummy tag data
 const tagData = [
   {
     tag_name: 'rock music',
