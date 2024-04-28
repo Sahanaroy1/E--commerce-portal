@@ -53,13 +53,6 @@ router.post('/', (req, res) => {
       stock: 3,
       tagIds: [1, 2, 3, 4]
     })*/
-    Product.create(req.body)
-      .then((newProduct) => {
-        res.json(newProduct);
-      })
-      .catch((err) => {
-        res.json(err);
-      })
 
   Product.create(req.body)
     .then((product) => {
