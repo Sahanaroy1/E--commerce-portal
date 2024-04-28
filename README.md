@@ -1,4 +1,4 @@
-# E--commerce-portal
+# E-commerce-portal
 
 ## User Story
 * As a developer this week's challenge is to built a backend of a e-commerce site using Express.js, Sequalize and Postgres database.
