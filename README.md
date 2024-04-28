@@ -16,7 +16,7 @@
 * It's done when I give a DELETE request for Categories, products or tags I item can be deleted from the list. 
 
 ## Github URL:
-
+https://github.com/Sahanaroy1/E-Commerce-Portal
 
 ## Walkthrough video URL:
 
